@@ -1,0 +1,66 @@
+baseURL = "https://marceloneil.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Marcel O'Neil"
+theme = "hermit"
+enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+[author]
+  name = "Marcel O'Neil"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag = "tags"
+  category = ""  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "Programmer and Student"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://github.com/marceloneil/marceloneil.com/commit/"
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/marceloneil"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/marceloneil"
+  
+  [[params.social]]
+    name = "email"
+    url = "mailto:marcel@marceloneil.com"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20
