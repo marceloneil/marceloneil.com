@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/marceloneil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://marceloneil.com
+  * I am marceloneil (https://keybase.io/marceloneil) on keybase.
+  * I have a public key ASCnSWQns7RthTzHy269uFE_q_70k0De3pasnEcfHrw6iwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101573eedeabb9f225c4ca875da65507c5def1dc12e8279507cd92ed91f27b68d340a",
+      "host": "keybase.io",
+      "kid": "0120a7496427b3b46d853cc7cb6ebdb8513fabfef49340dede96ac9c471f1ebc3a8b0a",
+      "uid": "4ebbbe8f30daedc9a84f699d0a7d2919",
+      "username": "marceloneil"
+    },
+    "merkle_root": {
+      "ctime": 1547732434,
+      "hash": "9ae2dd91d586bccfabe9449f6af38f0ab851c99b307cb2c7d5214e26324077e96264cf25c4d6e0d02115110b86adea8b00207072c8d9329bcc8ba2e21d74d3a5",
+      "hash_meta": "ed8505360eb7b339bfeb03885d136a86fa7384c90189f2140301436b919a590c",
+      "seqno": 4444535
+    },
+    "service": {
+      "entropy": "d3Rcyh6whpuZrGG6I9+bKaps",
+      "hostname": "marceloneil.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1547732219,
+  "expire_in": 504576000,
+  "prev": "536cff1dc9b81c01322cfeaefce775ab523589b41d2bd895935c50faefca9918",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgp0lkJ7O0bYU8x8tuvbhRP6v+9JNA3t6WrJxHHx68OosKp3BheWxvYWTESpcCOcQgU2z/Hcm4HAEyLP6u/Od1q1I1ibQdK9iVk1xQ+u/KmRjEILYum8b54rBmOI+aknAItrKmuMmwS6lZ5edlTeIAu/n2AgHCo3NpZ8RAcpVcMc/hYyLMihed9lN2G3HJ7ooMB7kOGJZt5FWfNfHzilJz7RkX/y6ZqRCvjkmrxS3cE76IWJN4gDzy/0T2BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGza2NcQFamrpXAoVtHittBhCly+rnbKYtapPExXxJ4ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marceloneil
+
+==================================================================
