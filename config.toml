@@ -31,7 +31,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Programmer and Student"
+  homeSubtitle = "Programmer, Student and Tech-Enthusiast"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
