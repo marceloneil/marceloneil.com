@@ -309,4 +309,4 @@ This is the log for the selective test I ran [here](#selective-self-test):
 smartctl -a /dev/ada0
 ```
 
-As you can probably guess, regularly scheduling tests and scanning for errors can be quite useful. That is where `smartd` comes into play, which I will write about in a future post.
+As you can probably guess, regularly scheduling tests and scanning for errors can be quite useful. That is where `smartd` comes into play, which you can read more about in my post "[Using smartd](/posts/using-smartd/)".
