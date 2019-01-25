@@ -2,3 +2,7 @@ mark {
   background-color: rgb(238, 238, 238);
   color: rgb(44, 62, 80);
 }
+
+pre > a {
+  color: rgb(238, 238, 238)
+}

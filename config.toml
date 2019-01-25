@@ -40,7 +40,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
 
-  customCSS = ["css/mark.css"]
+  customCSS = ["css/custom.css"]
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
