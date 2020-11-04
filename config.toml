@@ -18,7 +18,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 [taxonomies]
   tag = "tags"
-  category = ""  # Categories are disabled by default.
+  # Categories are disabled by default.
+  # category = ""
 
 [params]
   dateform        = "Jan 2, 2006"
